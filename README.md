@@ -28,7 +28,7 @@ Disciplina: Computação Gráfica e Realidade Virtual <br/>
 + Grupo 2: Museu de Arte com Galeria Interativa: (Ismael)
 + Grupo 3: Casa Interativa com Controle de Iluminação: (Breno)
 + Grupo 4: Labirinto 3D com Desafios Interativos: (Lucas)
-+ Grupo 5: Jogo de Pintura 3D com Ferramentas Interativas: (Antony)
++ Grupo 5: Jogo de Pintura 3D com Ferramentas Interativas: (Antony): https://youtu.be/aYWE-N4K_K0
 
 ## Projetos
 
@@ -45,7 +45,7 @@ Disciplina: Computação Gráfica e Realidade Virtual <br/>
 4. **Labirinto 3D com Desafios Interativos:**
    - Um jogo de labirinto 3D com desafios adicionais e elementos interativos para os jogadores explorarem.
 
-5. **Jogo de Pintura 3D com Ferramentas Interativas:**
+5. **Jogo de Pintura 3D com Ferramentas Interativas:** : https://youtu.be/aYWE-N4K_K0
    - Um jogo de pintura 3D onde os usuários podem criar obras de arte virtuais utilizando ferramentas interativas de edição.
 
 ---
